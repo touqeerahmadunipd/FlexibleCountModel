@@ -9,5 +9,5 @@ This study uses a real dataset from the Global Terrorism Database (GTD). Due to 
 
 ![Spatial map of the number of fatalities, including locals and terrorists, in Afghanistan](Figures/Total_number_fatalities-1.png)
 
-![Frequency distribution of fatalities](Figures/Frequency-dist-1.png)
+![Frequency distribution of fatalities](Figures/Frquency-dist-1.png)
 
