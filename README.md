@@ -7,5 +7,7 @@ https://github.com/touqeerahmadunipd/degpd-and-zidegpd
 # Real data
 This study uses a real dataset from the Global Terrorism Database (GTD). Due to licensing restrictions, the data cannot be shared publicly. For more information or to access the GTD, please visit: https://www.start.umd.edu/using-gtd
 
-![Description of image](Figures/Total_number_fatalities-1.png)
-![Description of image](Figures/Frquency-dist-1.png)
+![Spatial map of the number of fatalities, including locals and terrorists, in Afghanistan](Figures/Total_number_fatalities-1.png)
+
+![Frequency distribution of fatalities](Figures/Frequency-dist-1.png)
+
