@@ -7,9 +7,9 @@ https://github.com/touqeerahmadunipd/degpd-and-zidegpd
 # Real data
 This study uses a real dataset from the Global Terrorism Database (GTD). Due to licensing restrictions, the data cannot be shared publicly. For more information or to access the GTD, please visit: https://www.start.umd.edu/using-gtd
 
-The first figure shows a spatial map of the total number of fatalities in Afghanistan, including both locals and terrorists, aggregated by location. This visualization helps identify the regions most affected by violent incidents according to the Global Terrorism Database (GTD).
+The left figure shows a spatial map of the total number of fatalities in Afghanistan, including both locals and terrorists, aggregated by location. This visualization helps identify the regions most affected by violent incidents according to the Global Terrorism Database (GTD).
 
-The second figure presents the frequency distribution of fatalities across all recorded events in the dataset. It illustrates how often different numbers of fatalities occur, highlighting patterns such as common low-fatality incidents and rare high-fatality events.
+The figure on the right presents the frequency distribution of fatalities across all recorded events in the dataset. It illustrates how often different numbers of fatalities occur, highlighting patterns such as common low-fatality incidents and rare high-fatality events.
 
 These figures together provide both geographical and statistical perspectives on the impact of terrorism in Afghanistan.
 <p float="left">
