@@ -6,3 +6,5 @@ https://github.com/touqeerahmadunipd/degpd-and-zidegpd
 
 # Real data
 This study uses a real dataset from the Global Terrorism Database (GTD). Due to licensing restrictions, the data cannot be shared publicly. For more information or to access the GTD, please visit: https://www.start.umd.edu/using-gtd
+
+![Description of image]()
